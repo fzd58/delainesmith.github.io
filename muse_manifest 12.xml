@@ -1,0 +1,286 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="delainesmith.com" resolutions="1x" timestamp="1576720214415">
+  <folder name="css">
+    <file name="site_global.css" crc="158364762"/>
+    <file name="picture.css" crc="3880753270" ref="picture"/>
+    <file name="event.css" crc="514772454" ref="event"/>
+    <file name="envents.css" crc="120795054" ref="envents"/>
+    <file name="index.css" crc="3851883236" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="arial bold.woff" crc="3800399176"/>
+    <file name="arial bold.eot" crc="420893914"/>
+    <file name="arial bold.svg" crc="4202621507"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:picture:event:envents"/>
+    <file name="museutils.js" crc="3939489907" ref="index:picture:event:envents"/>
+    <file name="whatinput.js" crc="86476730" ref="index:picture:event:envents"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:picture:event:envents"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:picture:event:envents"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:picture:event:envents"/>
+    <file name="webpro.js" crc="3856315280" ref="index:picture:event:envents"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:picture:event:envents"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:picture:event:envents"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:picture:event:envents"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1242.php" crc="3916584863" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:picture:event:envents"/>
+    <file name="require.js" crc="4177726516" ref="index:picture:event:envents"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="719064" ref="index"/>
+    <file name="bio-crop-u387.jpg" crc="522813754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="texture.jpg" crc="397322237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-mockup.png" crc="420307113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="390758369" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="u208-4-a.png" crc="4010650417" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:picture:event:envents"/>
+    <file name="u8095.png" crc="4110300656" ref="index"/>
+    <file name="u8095-r.png" crc="343816011" ref="index"/>
+    <file name="u8095-m.png" crc="520753370" ref="index"/>
+    <file name="u8095-a.png" crc="343816011" ref="index"/>
+    <file name="u5269.png" crc="294018859" ref="index"/>
+    <file name="u5269-r.png" crc="3855864029" ref="index"/>
+    <file name="u5269-m.png" crc="3789634768" ref="index"/>
+    <file name="u5269-a.png" crc="3855864029" ref="index"/>
+    <file name="u4316.png" crc="241027749" ref="index"/>
+    <file name="u4316-r.png" crc="4236153735" ref="index"/>
+    <file name="u4316-m.png" crc="301701181" ref="index"/>
+    <file name="u4316-a.png" crc="4236153735" ref="index"/>
+    <file name="downtown-jacksonville-skyline-florida-united-states-water-lamp.jpg" crc="385458109" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-2.jpg" crc="38184205" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-3.jpg" crc="430945143" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:picture:event:envents"/>
+    <file name="bam.png" crc="396876315" seo="true" ref="index:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="delanie-2b.png" crc="4294271515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dr-delanie-name786x284.png" crc="47791219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax.jpg" crc="4130755734" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bio.jpg" crc="4142926633" seo="true" ref="index:picture">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="contribute-normal.png" crc="3849104446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contribute-rollover.png" crc="3877110703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love gift-normal.png" crc="107937735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love gift-rollover.png" crc="4229921323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read button-normal.jpg" crc="4204257489" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read button-rollover.jpg" crc="4238684402" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ddsmitho.jpg" crc="404908587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buy now-normal.png" crc="4035999195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buy now-rollover.png" crc="4035999195" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bool-online.png" crc="4259526160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="384188781" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="fbook.png" crc="222381140" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="googlp.png" crc="523518748" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="link.png" crc="4152909334" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="shoe-3.png" crc="498651914" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="shoe-2.png" crc="3974085552" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="shoe-1.png" crc="380396724" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u3423.png" crc="435294243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u3430.png" crc="76217599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="4010572989" seo="true" ref="index:picture:event:envents">
+      <caption webpage="index" alt=""/>
+      <caption webpage="envents" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="name.png" crc="195239083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="picture-favicon.ico" crc="719064" ref="picture"/>
+    <file name="u3882.png" crc="4126249089" ref="picture"/>
+    <file name="u3882-r.png" crc="4010650417" ref="picture"/>
+    <file name="u3882-m.png" crc="193765651" ref="picture"/>
+    <file name="u3882-a.png" crc="4010650417" ref="picture"/>
+    <file name="u8148.png" crc="4110300656" ref="picture"/>
+    <file name="u8148-r.png" crc="343816011" ref="picture"/>
+    <file name="u8148-m.png" crc="520753370" ref="picture"/>
+    <file name="u8148-a.png" crc="343816011" ref="picture"/>
+    <file name="u5292.png" crc="294018859" ref="picture"/>
+    <file name="u5292-r.png" crc="3855864029" ref="picture"/>
+    <file name="u5292-m.png" crc="3789634768" ref="picture"/>
+    <file name="u5292-a.png" crc="3855864029" ref="picture"/>
+    <file name="u4333-4-a.png" crc="4236153735" ref="picture"/>
+    <file name="dr-delanie-name676x244.png" crc="47791219" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 2-crop-u5898.jpg" crc="3853816880" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 3.jpg" crc="3870447724" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 4.jpg" crc="4197200556" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 5.jpg" crc="4197200556" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 6.jpg" crc="3800095506" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u3953.png" crc="435294243" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u3938.png" crc="76217599" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="event-favicon.ico" crc="719064" ref="event"/>
+    <file name="u5082.png" crc="4126249089" ref="event"/>
+    <file name="u5082-r.png" crc="4010650417" ref="event"/>
+    <file name="u5082-m.png" crc="193765651" ref="event"/>
+    <file name="u5082-a.png" crc="4010650417" ref="event"/>
+    <file name="u8121.png" crc="4110300656" ref="event"/>
+    <file name="u8121-r.png" crc="343816011" ref="event"/>
+    <file name="u8121-m.png" crc="520753370" ref="event"/>
+    <file name="u8121-a.png" crc="343816011" ref="event"/>
+    <file name="u5313-4-a.png" crc="3855864029" ref="event"/>
+    <file name="u5093.png" crc="241027749" ref="event"/>
+    <file name="u5093-r.png" crc="4236153735" ref="event"/>
+    <file name="u5093-m.png" crc="301701181" ref="event"/>
+    <file name="u5093-a.png" crc="4236153735" ref="event"/>
+    <file name="delanie-1.png" crc="321111322" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="dr-delanie-name.png" crc="47791219" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="img_4329.jpg" crc="132837026" seo="true" ref="event:envents">
+      <caption webpage="event" alt=""/>
+      <caption webpage="envents" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u5031.png" crc="435294243" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u5022.png" crc="76217599" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="envents-favicon.ico" crc="719064" ref="envents"/>
+    <file name="u7824.png" crc="4126249089" ref="envents"/>
+    <file name="u7824-r.png" crc="4010650417" ref="envents"/>
+    <file name="u7824-m.png" crc="193765651" ref="envents"/>
+    <file name="u7824-a.png" crc="4010650417" ref="envents"/>
+    <file name="u8176-4-a.png" crc="343816011" ref="envents"/>
+    <file name="u7830.png" crc="294018859" ref="envents"/>
+    <file name="u7830-r.png" crc="3855864029" ref="envents"/>
+    <file name="u7830-m.png" crc="3789634768" ref="envents"/>
+    <file name="u7830-a.png" crc="3855864029" ref="envents"/>
+    <file name="u7838.png" crc="241027749" ref="envents"/>
+    <file name="u7838-r.png" crc="4236153735" ref="envents"/>
+    <file name="u7838-m.png" crc="301701181" ref="envents"/>
+    <file name="u7838-a.png" crc="4236153735" ref="envents"/>
+    <file name="unnamed-2-crop-u7765.png" crc="435294243" seo="true" ref="envents">
+      <caption webpage="envents" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u7748.png" crc="76217599" seo="true" ref="envents">
+      <caption webpage="envents" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="247710653" seo="true" mt="1576719665579" redirect="true"/>
+  <file name="picture.html" crc="3811477721" seo="true" mt="1576719367880" redirect="true"/>
+  <file name="event.html" crc="3949318823" seo="true" mt="1576720185026" redirect="true"/>
+  <file name="envents.html" crc="3945149395" seo="true" mt="1576719755056" redirect="true"/>
+</manifest>

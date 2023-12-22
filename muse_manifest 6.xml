@@ -1,0 +1,240 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="delainesmith.com" resolutions="1x" timestamp="1547328853247">
+  <folder name="css">
+    <file name="site_global.css" crc="290115963"/>
+    <file name="event.css" crc="57674959" ref="event"/>
+    <file name="index.css" crc="3920340853" ref="index"/>
+    <file name="picture.css" crc="157332392" ref="picture"/>
+  </folder>
+  <folder name="assets">
+    <file name="e9b88eb893e43f3c2b37f4aebf82c67b2e390a18d1050cbccef8fdec848cc5fd.mp4" crc="4052711031" seo="true" mt="1547313172000"/>
+    <file name="media.io_e9b88eb893e43f3c2b37f4aebf82c67b2e390a18d1050cbccef8fdec848cc5fd.webm" crc="13536248" seo="true" mt="1547314667000"/>
+    <file name="ishshah-conf.jpg" crc="4083656367" seo="true" mt="1547314984000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:picture:event"/>
+    <file name="museutils.js" crc="340535759" ref="index:picture:event"/>
+    <file name="whatinput.js" crc="86476730" ref="index:picture:event"/>
+    <file name="museconfig.js" crc="310584261" ref="index:picture:event"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:picture:event"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:picture:event"/>
+    <file name="webpro.js" crc="4059564322" ref="index:picture:event"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:picture:event"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:picture:event"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:picture:event"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1242.php" crc="501279352" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:picture:event"/>
+    <file name="require.js" crc="7928878" ref="index:picture:event"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="719064" ref="index"/>
+    <file name="0-crop-u387.jpg" crc="422992713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="texture.jpg" crc="397322237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-mockup.png" crc="420307113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="390758369" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="u208-4-a.png" crc="242295332" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:picture:event"/>
+    <file name="u5269.png" crc="4113613687" ref="index"/>
+    <file name="u5269-r.png" crc="3842528575" ref="index"/>
+    <file name="u5269-m.png" crc="4181092000" ref="index"/>
+    <file name="u5269-a.png" crc="3842528575" ref="index"/>
+    <file name="u4316.png" crc="488769483" ref="index"/>
+    <file name="u4316-r.png" crc="275354113" ref="index"/>
+    <file name="u4316-m.png" crc="218573356" ref="index"/>
+    <file name="u4316-a.png" crc="275354113" ref="index"/>
+    <file name="downtown-jacksonville-skyline-florida-united-states-water-lamp.jpg" crc="385458109" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-2.jpg" crc="38184205" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-3.jpg" crc="430945143" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:picture:event"/>
+    <file name="bam.png" crc="396876315" seo="true" ref="index:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="delanie-2b.png" crc="4294271515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dr-delanie-name786x284.png" crc="47791219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parallax.jpg" crc="4130755734" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bio.jpg" crc="4142926633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contribute-normal.png" crc="3849104446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contribute-rollover.png" crc="3877110703" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love gift-normal.png" crc="107937735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love gift-rollover.png" crc="4229921323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read button-normal.jpg" crc="4204257489" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read button-rollover.jpg" crc="4238684402" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ddsmitho.jpg" crc="404908587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buy now-normal.png" crc="4035999195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buy now-rollover.png" crc="4035999195" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bool-online.png" crc="4259526160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="384188781" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="fbook.png" crc="222381140" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="googlp.png" crc="523518748" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="link.png" crc="4152909334" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="shoe-3.png" crc="498651914" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="shoe-2.png" crc="3974085552" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="shoe-1.png" crc="380396724" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u3423.png" crc="435294243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u3430.png" crc="76217599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="4010572989" seo="true" ref="index:picture:event">
+      <caption webpage="index" alt=""/>
+      <caption webpage="picture" alt=""/>
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="name.png" crc="195239083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="picture-favicon.ico" crc="719064" ref="picture"/>
+    <file name="u3882.png" crc="491955565" ref="picture"/>
+    <file name="u3882-r.png" crc="242295332" ref="picture"/>
+    <file name="u3882-m.png" crc="4290069445" ref="picture"/>
+    <file name="u3882-a.png" crc="242295332" ref="picture"/>
+    <file name="u5292.png" crc="4113613687" ref="picture"/>
+    <file name="u5292-r.png" crc="3842528575" ref="picture"/>
+    <file name="u5292-m.png" crc="4181092000" ref="picture"/>
+    <file name="u5292-a.png" crc="3842528575" ref="picture"/>
+    <file name="u4333-4-a.png" crc="275354113" ref="picture"/>
+    <file name="dr-delanie-name676x244.png" crc="47791219" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 2-crop-u5898.jpg" crc="3853816880" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 3.jpg" crc="3870447724" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 4.jpg" crc="4197200556" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio2.jpg" crc="4142926633" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 5.jpg" crc="4197200556" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="bio 6.jpg" crc="3800095506" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u3953.png" crc="435294243" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u3938.png" crc="76217599" seo="true" ref="picture">
+      <caption webpage="picture" alt=""/>
+    </file>
+    <file name="event-favicon.ico" crc="719064" ref="event"/>
+    <file name="u5082.png" crc="491955565" ref="event"/>
+    <file name="u5082-r.png" crc="242295332" ref="event"/>
+    <file name="u5082-m.png" crc="4290069445" ref="event"/>
+    <file name="u5082-a.png" crc="242295332" ref="event"/>
+    <file name="u5313-4-a.png" crc="3842528575" ref="event"/>
+    <file name="u5093.png" crc="488769483" ref="event"/>
+    <file name="u5093-r.png" crc="275354113" ref="event"/>
+    <file name="u5093-m.png" crc="218573356" ref="event"/>
+    <file name="u5093-a.png" crc="275354113" ref="event"/>
+    <file name="delanie-1.png" crc="321111322" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="dr-delanie-name.png" crc="47791219" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="img_8886.jpg" crc="70135586" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-2-crop-u5031.png" crc="435294243" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+    <file name="unnamed-1-crop-u5022.png" crc="76217599" seo="true" ref="event">
+      <caption webpage="event" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="146767899" seo="true" mt="1544484764731" redirect="true"/>
+  <file name="picture.html" crc="3980457800" seo="true" mt="1473858691222" redirect="true"/>
+  <file name="event.html" crc="4143097353" seo="true" mt="1547328830432" redirect="true"/>
+</manifest>
